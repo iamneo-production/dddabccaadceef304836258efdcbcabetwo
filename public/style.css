@@ -10,3 +10,17 @@ body {
   }
   
 /* Enter your styling here */
+h1{
+  text-align:center;
+  color:#fff;
+  text-shadow:2px 2px 4px rgba(0,0,0,0.5);
+  font-size:50px;
+
+
+}
+.box{
+  display:flex ;
+  justify-content: center;
+
+
+}
