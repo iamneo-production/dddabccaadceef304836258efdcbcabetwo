@@ -34,6 +34,12 @@ const ticTacToe = (element, index) => {
 
     // Your code to handle button and cell interactions
     // ...
+    const resetBoard=()=> {
+        for(let i-0;i<9;i++){
+            board[i]=";
+        }
+        currentPlayer="X"
+    }
 };
 
     /*
